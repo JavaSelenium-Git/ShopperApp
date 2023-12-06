@@ -1,0 +1,4 @@
+# Shop.txt Contain details about the Shop
+Sabas
+NvRoad
+Coimbatore

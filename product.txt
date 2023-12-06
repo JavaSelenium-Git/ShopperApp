@@ -1,0 +1,5 @@
+# product.txt Contain details about the Shop product
+Grocery
+Cosmeticts
+Dresses
+Stationery

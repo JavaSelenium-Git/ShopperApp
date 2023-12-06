@@ -1,0 +1,5 @@
+# Customer.txt Contain details about the Shop customers
+Mani Trichy
+Jude Coimbatore
+Annie Salem
+Martina Coimbatore
