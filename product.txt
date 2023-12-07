@@ -3,3 +3,6 @@ Grocery
 Cosmeticts
 Dresses
 Stationery
+Fruits
+Bakery Items
+Vegetables
