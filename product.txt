@@ -6,3 +6,4 @@ Stationery
 Fruits
 Bakery Items
 Vegetables
+Shoes
